@@ -3,6 +3,6 @@ All exercises and projects for Introduction to Web Development classes, 2019, IC
 
 ## Weekly Exercises
 * Week 01
-    * [marking](/week01/marking): Marking up a letter
-    
+    * *marking*: Marking up a letter
+
 ## Thematic Exercises
